@@ -81,7 +81,7 @@ with tab3:
         st.dataframe(df)
 with tab4:
     st.image("under_const.jpg")
-st.sidebar.image("f:/images/flag.jpg")
+st.sidebar.image("flag.jpg")
 
 with st.sidebar.expander("🧑‍🤝‍🧑 About us"):
     st.write("We are a group of students trying to understand the concept of NLP")
